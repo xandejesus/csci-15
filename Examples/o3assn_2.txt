@@ -1,0 +1,32 @@
+UNIQUE WORD 	 	 AMOUNT OF TIMES SEEN
+bad	 	 	 	2
+news	 	 	 	1
+one	 	 	 	1
+of	 	 	 	1
+us	 	 	 	1
+is	 	 	 	1
+gonna	 	 	 	1
+lose	 	 	 	1
+im	 	 	 	1
+the	 	 	 	2
+powder	 	 	 	1
+youre	 	 	 	1
+fuse	 	 	 	1
+just	 	 	 	1
+add	 	 	 	1
+some	 	 	 	1
+friction	 	 	 	1
+you	 	 	 	3
+are	 	 	 	3
+my	 	 	 	6
+strange	 	 	 	3
+addiction	 	 	 	3
+doctors	 	 	 	1
+cant	 	 	 	1
+explain	 	 	 	1
+symptoms	 	 	 	1
+or	 	 	 	1
+pain	 	 	 	1
+but	 	 	 	1
+Longest word: addiction
+Shortest word: of

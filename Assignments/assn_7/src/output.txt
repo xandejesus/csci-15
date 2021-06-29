@@ -1,0 +1,70 @@
+Quadrilateral
+A: ( 0, 0 )B: ( 5, 0 )C: ( 5, 5 )D: ( 2, 3 )
+Area: 15
+Perimeter: 17.2111
+
+Quadrilateral
+A: ( 0, 0 )B: ( 5, 0 )C: ( 5, 5 )D: ( 2, 3 )
+Area: 15
+Perimeter: 17.2111
+
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 4, 0 )C: ( 2, 4 )D: ( 0, 4 )
+Area: 8.47214
+Perimeter: 16
+
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 4, 0 )C: ( 2, 4 )D: ( 0, 4 )
+Area: 8.47214
+Perimeter: 16
+
+Parallelogram
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 4, 0 )C: ( 6, 2 )D: ( 2, 2 )
+Area: 8
+Perimeter: 13.6569
+
+Parallelogram
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 4, 0 )C: ( 6, 2 )D: ( 2, 2 )
+Area: 8
+Perimeter: 13.6569
+
+Rectangle
+Parallelogram
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 5, 0 )C: ( 5, 3 )D: ( 0, 3 )
+Area: 15
+Perimeter: 16
+
+Rectangle
+Parallelogram
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 5, 0 )C: ( 5, 3 )D: ( 0, 3 )
+Area: 15
+Perimeter: 16
+
+Square
+Rectangle
+Parallelogram
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 4, 0 )C: ( 4, 4 )D: ( 0, 4 )
+Area: 16
+Perimeter: 16
+
+Square
+Rectangle
+Parallelogram
+Trapezoid
+Quadrilateral
+A: ( 0, 0 )B: ( 4, 0 )C: ( 4, 4 )D: ( 0, 4 )
+Area: 16
+Perimeter: 16
+

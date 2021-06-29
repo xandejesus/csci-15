@@ -1,0 +1,137 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+const int rows = 100;
+const int columns = 16;
+// ~~~~~~~~~~~~~~~~~~~~~
+void assignarrays (int cont, int &arraynum, char uniquewords[][columns], int wordamnts [], char * str1);
+int comparestring(char uniquewords[][columns], char * str1, int arraynum);
+int stringsequal(char uniquewords[][columns], int wordamnts[100], ifstream &input)
+{
+	static int arraynum = 0;
+	bool equal;
+	char * pen;
+	char firstword[100];
+	int cont;
+	if(input.eof())
+	{
+		return arraynum;
+	}
+	while(true)
+	{
+		input.getline(firstword, 100);
+		pen = strtok(firstword, " ,.\n");
+		while(pen != NULL)
+		{
+			cont  = comparestring(uniquewords, pen, arraynum);
+			assignarrays(cont, arraynum,uniquewords, wordamnts, pen);
+			pen = strtok(NULL, " ,.\n");
+			
+		}
+	}
+	return arraynum;
+}
+
+int comparestring(char uniquewords[][columns], char * str1, int arraynum)
+{
+	
+	bool equal = true;
+	for (int cont = 0; cont < arraynum; cont++)
+	{
+		equal = strcmp(uniquewords[cont], str1);
+		if (!equal)
+		{
+			return cont;
+		}
+	}
+	return 0;
+}
+
+void assignarrays (int cont, int &arraynum, char uniquewords[][columns], int wordamnts [], char * str1)
+{
+	if(cont)
+	{
+		int swap = wordamnts[cont];
+		wordamnts[cont] = ++swap;
+	}
+	else
+	{
+		strcpy(uniquewords[++arraynum], str1);
+	}
+}
+int longestword(char uniquewords[][columns], int arraynum)
+{
+	int longestlength = 0;
+	int length;
+	int llplace;
+	for(int cont = 0; cont < arraynum; cont++)
+	{
+		length = strlen(uniquewords[cont]);
+		if(length > longestlength)
+		{
+			longestlength = length;
+			llplace = cont;
+		}
+	}
+	return llplace;
+}
+int shortestword(char uniquewords[][columns], int arraynum)
+{
+	int longestlength = 0;
+	int length;
+	int slplace;
+	for(int cont = 0; cont < arraynum; cont++)
+	{
+		length = strlen(uniquewords[cont]);
+		if(length > longestlength)
+		{
+			longestlength = length;
+			slplace = cont;
+		}
+	}
+	return slplace;
+}
+void prinstuff(char uniquewords[][16], int arraynum, int wordamnts[], ofstream &output)
+{
+	int arraynum1, arraynum2;
+	if(!arraynum)
+	{
+		cout << "Your file had no data" << endl;
+		return;
+	}
+	arraynum1 = longestword(uniquewords, arraynum);
+	arraynum2 = shortestword(uniquewords, arraynum);
+	output << "UNIQUE WORD \t \t AMOUNT OF TIMES SEEN" << endl;
+	for(int cont = 0; cont < arraynum; cont++)
+	{
+		output << uniquewords[cont] << "\t \t" << wordamnts[cont] << endl;
+	}
+
+}
+// ~~~~~~~~~~~~~~~~~~~~~
+int main(int argc, char* argv[])
+{
+	int input_test;
+	int arraynum, wordamnts[100];
+	char uniquewords[rows][columns];
+	if (argc != 3)
+	{
+		cout << "Enter your files again. Goodbye." << endl;
+	}
+	ifstream input;
+	ofstream output;
+	input.open(argv[1]);
+	output.open(argv[2]);
+	if(!input)
+	{
+		cout << "Trouble opening files. Goodbye" << endl;
+	}
+	arraynum = stringsequal(uniquewords, wordamnts,input);
+	prinstuff(uniquewords, arraynum, wordamnts, output);
+
+
+
+}
+

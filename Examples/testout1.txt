@@ -1,0 +1,132 @@
+Dimensions: 15x18
+  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1   0  -1  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  -1   0   0   0  -1  -1   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0  -1   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0  -1   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0  -1  -1   0   0   0   0  -1
+  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+DROWNED on life 0
+DROWNED on life 1
+YOUR MOUSE STARVED TO DEATH LOL on life 2
+DROWNED on life 3
+DROWNED on life 4
+DROWNED on life 5
+DROWNED on life 6
+DROWNED on life 7
+DROWNED on life 8
+DROWNED on life 9
+DROWNED on life 10
+DROWNED on life 11
+DROWNED on life 12
+DROWNED on life 13
+DROWNED on life 14
+DROWNED on life 15
+DROWNED on life 16
+DROWNED on life 17
+DROWNED on life 18
+DROWNED on life 19
+DROWNED on life 20
+YOUR MOUSE STARVED TO DEATH LOL on life 21
+DROWNED on life 22
+DROWNED on life 23
+DROWNED on life 24
+DROWNED on life 25
+DROWNED on life 26
+DROWNED on life 27
+DROWNED on life 28
+DROWNED on life 29
+DROWNED on life 30
+DROWNED on life 31
+DROWNED on life 32
+DROWNED on life 33
+DROWNED on life 34
+DROWNED on life 35
+DROWNED on life 36
+DROWNED on life 37
+DROWNED on life 38
+DROWNED on life 39
+DROWNED on life 40
+YOUR MOUSE STARVED TO DEATH LOL on life 41
+YOUR MOUSE STARVED TO DEATH LOL on life 42
+YOUR MOUSE STARVED TO DEATH LOL on life 43
+DROWNED on life 44
+DROWNED on life 45
+DROWNED on life 46
+YOUR MOUSE STARVED TO DEATH LOL on life 47
+DROWNED on life 48
+DROWNED on life 49
+DROWNED on life 50
+DROWNED on life 51
+DROWNED on life 52
+YOUR MOUSE STARVED TO DEATH LOL on life 53
+YOUR MOUSE STARVED TO DEATH LOL on life 54
+DROWNED on life 55
+DROWNED on life 56
+DROWNED on life 57
+DROWNED on life 58
+DROWNED on life 59
+DROWNED on life 60
+DROWNED on life 61
+DROWNED on life 62
+DROWNED on life 63
+DROWNED on life 64
+DROWNED on life 65
+DROWNED on life 66
+YOUR MOUSE STARVED TO DEATH LOL on life 67
+DROWNED on life 68
+DROWNED on life 69
+DROWNED on life 70
+DROWNED on life 71
+DROWNED on life 72
+DROWNED on life 73
+DROWNED on life 74
+YOU LIVED ON life 75
+DROWNED on life 76
+DROWNED on life 77
+DROWNED on life 78
+DROWNED on life 79
+DROWNED on life 80
+YOUR MOUSE STARVED TO DEATH LOL on life 81
+DROWNED on life 82
+DROWNED on life 83
+DROWNED on life 84
+DROWNED on life 85
+DROWNED on life 86
+DROWNED on life 87
+YOUR MOUSE STARVED TO DEATH LOL on life 88
+DROWNED on life 89
+DROWNED on life 90
+DROWNED on life 91
+DROWNED on life 92
+DROWNED on life 93
+DROWNED on life 94
+YOU LIVED ON life 95
+DROWNED on life 96
+DROWNED on life 97
+YOU LIVED ON life 98
+DROWNED on life 99
+Dimensions: 15x18
+   0   1   0   1   3   1   1   0   2   5   1   3   2   1   2   3   0   0
+   0   1   1   1   3   3   5   9   8  11   7  15  15   7   4   3   1   0
+   0   1   2   3   3   9  16  23  23  31  18  22  16   8   8   8   5   1
+   0   0   1   4   2   7  30  38  59  68  37  35  38  22  16   7   1   0
+   0   0   1   2   2  15  40  52  77  74  54  38  37  21  20  11   5   1
+   0   1   3   4   4  13  44  73 100  97  79  43  36  21  12   4   2   1
+   0   1   6  10  18  30  62 102 102 110  57  52  38  21  10   4   1   1
+   0   1   4   5  23  33  46  79 114  82  47  45  29  25  10   6   1   1
+   0   1   3   4  19  33  41  60  82  64  47  34  27  23   8   9   2   0
+   1   2   5   4   9  25  27  57  57  46  33  19  21  19   7   4   1   0
+   1   2   6   6  12  30  55  69  31  28  27  25  10   6   5   2   1   1
+   1   1   1   1  13  24  44  52  32  22  20  19   7   6   6   2   2   0
+   0   0   0   1   6   5  15  20  21   9   7   9   3   4   4   4   4   1
+   0   0   1   2   5   3   7   8  10   6   2   0   0   1   0   1   1   0
+   0   0   0   0   3   1   3   2   0   3   0   0   0   1   0   0   1   0

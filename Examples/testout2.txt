@@ -1,0 +1,142 @@
+Dimensions: 20x20
+  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  -1   0   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  -1
+  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1  -1
+DROWNED on attempt 0
+DROWNED on attempt 1
+DROWNED on attempt 2
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 4
+DROWNED on attempt 5
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 7
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 10
+DROWNED on attempt 11
+DROWNED on attempt 12
+DROWNED on attempt 13
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 15
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 17
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 20
+DROWNED on attempt 21
+DROWNED on attempt 22
+DROWNED on attempt 23
+DROWNED on attempt 24
+DROWNED on attempt 25
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 27
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 29
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 31
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 33
+DROWNED on attempt 34
+DROWNED on attempt 35
+YOU LIVED ON attempt 36
+DROWNED on attempt 37
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 39
+DROWNED on attempt 40
+DROWNED on attempt 41
+DROWNED on attempt 42
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 44
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 48
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 50
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 52
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 54
+DROWNED on attempt 55
+DROWNED on attempt 56
+DROWNED on attempt 57
+DROWNED on attempt 58
+DROWNED on attempt 59
+DROWNED on attempt 60
+DROWNED on attempt 61
+DROWNED on attempt 62
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 64
+DROWNED on attempt 65
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 67
+DROWNED on attempt 68
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 70
+DROWNED on attempt 71
+DROWNED on attempt 72
+DROWNED on attempt 73
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 75
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 78
+DROWNED on attempt 79
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 81
+DROWNED on attempt 82
+YOU LIVED ON attempt 83
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 87
+DROWNED on attempt 88
+DROWNED on attempt 89
+YOU LIVED ON attempt 90
+DROWNED on attempt 91
+DROWNED on attempt 92
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+DROWNED on attempt 95
+DROWNED on attempt 96
+DROWNED on attempt 97
+YOUR MOUSE STARVED TO DEATH LOL
+YOUR MOUSE STARVED TO DEATH LOL
+Dimensions: 20x20
+   0   0   0   1   2   0   0   2   0   1   2   3   3   2   3   1   3   0   0   0
+   0   0   4   3   6   4   7   8   4   5  10   6   9   9  10   8  11   3   0   0
+   0   2   6   2   7  13  23  26  26  20  23  21  21  17  20  12  13   7   2   0
+   1   3   5   7   6  16  28  27  27  29  33  36  29  15  23  19  13   6   2   1
+   1   4   5  12   8  13  28  33  34  36  41  47  35  24  35  30  17   8   2   1
+   0   3   3   9  15  17  32  37  45  49  58  58  54  37  37  34  22   5   1   0
+   2   3   8  12  18  19  36  41  60  74  71  76  79  60  37  27  16   5   3   0
+   0   6   6   9  23  25  28  39  59  72  82 118  98  74  46  23  12   6   4   2
+   0   5   3   5  13  19  27  46  60  75 107 122 129  85  58  31  24  13   5   3
+   1   2   5   7   5  11  18  27  39  63  94 115  84  56  39  24  29  13   3   1
+   0   0   5   4  11  18  22  36  44  66  74  72  70  50  32  25  29  12   5   3
+   0   1   8  10  20  20  17  28  36  46  55  47  39  38  27  28  23  15   4   1
+   1   3   4   7  13  18  28  30  26  35  36  29  21  23  26  32  16   8   5   1
+   1   5   5   4   8  19  26  22  24  32  43  31  25  21  14  24  19   9  12   3
+   0   3   8   3   8  20  36  35  15  12  24  18  27  30  18  11   7   7   8   1
+   1   2   6   4   7  12  17  19  17  14  14  18  19  23  18   9   9   8   4   0
+   1   3   3   4   6  11   9   9  13  14  14  15  17  20  13   6   6   6   3   0
+   0   1   6   5   3   7   9   7  10  14  11   9  12  11   5   5   2   3   3   1
+   0   1   5   1   1   1   3   4   9  10   4   5   8   7   3   4   2   4   4   0
+   0   0   2   0   0   1   1   0   1   2   0   2   2   1   2   0   1   0   1   0

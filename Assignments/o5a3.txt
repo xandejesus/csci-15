@@ -1,0 +1,117 @@
+Dimensions: 6x9
+  -1  -1  -1  -1   0  -1  -1  -1  -1
+  -1   0   0   0   0   0   0   0  -1
+  -1   0   0   0   0   0   0   0  -1
+  -1   0   0   0   1   0   0   0  -1
+  -1   0   0   0   0   0   0   0  -1
+  -1  -1  -1  -1   0  -1  -1  -1  -1
+YOU LIVED ON life 0
+DROWNED on life 1
+DROWNED on life 2
+DROWNED on life 3
+DROWNED on life 4
+DROWNED on life 5
+DROWNED on life 6
+DROWNED on life 7
+DROWNED on life 8
+DROWNED on life 9
+DROWNED on life 10
+DROWNED on life 11
+DROWNED on life 12
+DROWNED on life 13
+DROWNED on life 14
+DROWNED on life 15
+DROWNED on life 16
+DROWNED on life 17
+DROWNED on life 18
+DROWNED on life 19
+DROWNED on life 20
+DROWNED on life 21
+DROWNED on life 22
+DROWNED on life 23
+DROWNED on life 24
+DROWNED on life 25
+DROWNED on life 26
+YOU LIVED ON life 27
+DROWNED on life 28
+DROWNED on life 29
+DROWNED on life 30
+DROWNED on life 31
+DROWNED on life 32
+DROWNED on life 33
+DROWNED on life 34
+DROWNED on life 35
+YOU LIVED ON life 36
+YOU LIVED ON life 37
+DROWNED on life 38
+YOU LIVED ON life 39
+DROWNED on life 40
+YOU LIVED ON life 41
+DROWNED on life 42
+DROWNED on life 43
+DROWNED on life 44
+DROWNED on life 45
+DROWNED on life 46
+DROWNED on life 47
+DROWNED on life 48
+YOU LIVED ON life 49
+DROWNED on life 50
+YOU LIVED ON life 51
+DROWNED on life 52
+DROWNED on life 53
+DROWNED on life 54
+DROWNED on life 55
+DROWNED on life 56
+DROWNED on life 57
+DROWNED on life 58
+YOU LIVED ON life 59
+DROWNED on life 60
+YOU LIVED ON life 61
+DROWNED on life 62
+DROWNED on life 63
+DROWNED on life 64
+DROWNED on life 65
+DROWNED on life 66
+DROWNED on life 67
+DROWNED on life 68
+DROWNED on life 69
+DROWNED on life 70
+YOU LIVED ON life 71
+DROWNED on life 72
+DROWNED on life 73
+DROWNED on life 74
+DROWNED on life 75
+DROWNED on life 76
+DROWNED on life 77
+DROWNED on life 78
+DROWNED on life 79
+DROWNED on life 80
+YOU LIVED ON life 81
+DROWNED on life 82
+DROWNED on life 83
+DROWNED on life 84
+DROWNED on life 85
+DROWNED on life 86
+DROWNED on life 87
+DROWNED on life 88
+DROWNED on life 89
+DROWNED on life 90
+DROWNED on life 91
+DROWNED on life 92
+YOU LIVED ON life 93
+DROWNED on life 94
+DROWNED on life 95
+DROWNED on life 96
+DROWNED on life 97
+YOU LIVED ON life 98
+YOU LIVED ON life 99
+Drowned: 85 times
+Survived: 15 times
+Starved: 0 times
+Dimensions: 6x9
+   0   1   5   9   4   5   3   2   0
+   0   3  17  28  25  18  14   7   2
+   1   6  28  53  91  45  31  16   3
+   7  17  52  70  88  86  53  18   3
+   4  12  32  32  54  35  29   9   3
+   0   2   5   6  11  12  10   2   0

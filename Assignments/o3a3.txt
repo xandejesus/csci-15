@@ -1,0 +1,115 @@
+Dimensions: 5x6
+  -1  -1  -1  -1  -1  -1
+  -1   0   0   0   0   0
+  -1   0   1   0   0  -1
+  -1   0   0   0   0  -1
+  -1  -1  -1   0  -1  -1
+DROWNED on life 0
+DROWNED on life 1
+DROWNED on life 2
+DROWNED on life 3
+DROWNED on life 4
+DROWNED on life 5
+DROWNED on life 6
+DROWNED on life 7
+DROWNED on life 8
+DROWNED on life 9
+DROWNED on life 10
+DROWNED on life 11
+DROWNED on life 12
+DROWNED on life 13
+DROWNED on life 14
+DROWNED on life 15
+DROWNED on life 16
+DROWNED on life 17
+DROWNED on life 18
+DROWNED on life 19
+DROWNED on life 20
+DROWNED on life 21
+YOU LIVED ON life 22
+DROWNED on life 23
+DROWNED on life 24
+DROWNED on life 25
+DROWNED on life 26
+DROWNED on life 27
+DROWNED on life 28
+DROWNED on life 29
+DROWNED on life 30
+DROWNED on life 31
+DROWNED on life 32
+DROWNED on life 33
+DROWNED on life 34
+DROWNED on life 35
+DROWNED on life 36
+DROWNED on life 37
+DROWNED on life 38
+DROWNED on life 39
+DROWNED on life 40
+DROWNED on life 41
+YOU LIVED ON life 42
+DROWNED on life 43
+DROWNED on life 44
+YOU LIVED ON life 45
+DROWNED on life 46
+DROWNED on life 47
+DROWNED on life 48
+DROWNED on life 49
+DROWNED on life 50
+YOU LIVED ON life 51
+YOU LIVED ON life 52
+DROWNED on life 53
+DROWNED on life 54
+DROWNED on life 55
+DROWNED on life 56
+DROWNED on life 57
+DROWNED on life 58
+DROWNED on life 59
+YOU LIVED ON life 60
+DROWNED on life 61
+DROWNED on life 62
+DROWNED on life 63
+DROWNED on life 64
+YOU LIVED ON life 65
+DROWNED on life 66
+DROWNED on life 67
+DROWNED on life 68
+YOU LIVED ON life 69
+DROWNED on life 70
+DROWNED on life 71
+YOU LIVED ON life 72
+DROWNED on life 73
+DROWNED on life 74
+DROWNED on life 75
+DROWNED on life 76
+YOU LIVED ON life 77
+DROWNED on life 78
+DROWNED on life 79
+DROWNED on life 80
+DROWNED on life 81
+DROWNED on life 82
+DROWNED on life 83
+DROWNED on life 84
+DROWNED on life 85
+DROWNED on life 86
+DROWNED on life 87
+DROWNED on life 88
+DROWNED on life 89
+DROWNED on life 90
+DROWNED on life 91
+DROWNED on life 92
+DROWNED on life 93
+YOU LIVED ON life 94
+DROWNED on life 95
+YOU LIVED ON life 96
+DROWNED on life 97
+DROWNED on life 98
+DROWNED on life 99
+Drowned: 88 times
+Survived: 12 times
+Starved: 0 times
+Dimensions: 5x6
+   0   7  11   8   2   0
+   5  31  50  29  12   6
+  11  64  52  50  15   6
+   8  33  61  40  11   2
+   0  12  13   6   3   0
