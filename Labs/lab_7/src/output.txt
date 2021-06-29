@@ -1,0 +1,25 @@
+A Dog! a Panic in a Pagoda!
+<A Dog! a Panic in a Pagoda!> This is a Palindrome
+<A Dog! a Panic in a Pagoda!> This is a Palindrome
+Enter a sentence or 'quit': 
+Madam, I'm Adam.
+<Madam, I'm Adam.> This is a Palindrome
+<Madam, I'm Adam.> This is a Palindrome
+Enter a sentence or 'quit': 
+Madam.
+<Madam.> This is a Palindrome
+<Madam.> This is a Palindrome
+Enter a sentence or 'quit': 
+Adam.
+<Adam.> This is not a Palindrome
+<Adam.> This is not a Palindrome
+Enter a sentence or 'quit': 
+Manu
+<Manu> This is not a Palindrome
+<Manu> This is not a Palindrome
+Enter a sentence or 'quit': 
+LOL
+<LOL> This is a Palindrome
+<LOL> This is a Palindrome
+Enter a sentence or 'quit': 
+quit
